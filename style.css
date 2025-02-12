@@ -59,3 +59,11 @@ li {
     text-decoration: line-through;
     color: #888;
 }
+body {
+    /* Flower background */
+    background-image: url('flower-background.jpg'); /* Replace with your image */
+    background-size: cover;
+    font-family: 'Your Flower Font', sans-serif; /* Replace with a suitable font */
+    color: #333;
+}
+
